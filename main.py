@@ -1,4 +1,4 @@
 import Playfield
 
-playfield = Playfield.Playfield(100, 100)
+playfield = Playfield.Playfield(4, 4)
 print(playfield)
